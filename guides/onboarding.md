@@ -13,3 +13,5 @@ Welcome to the team. This page covers your first week.
 Pair with a teammate on a small ticket. Ask questions early.
 
 > Tip: nobody expects you to know everything in week one.
+
+Proposed line.
